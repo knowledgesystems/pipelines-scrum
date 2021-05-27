@@ -16,6 +16,5 @@ assignees: ''
 ## Dependencies 
 ### Technical Requirements
 ### Outside People/Teams
-### Issues
 
 ## Changes
